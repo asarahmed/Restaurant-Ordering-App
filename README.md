@@ -2,7 +2,7 @@
 
 Go Order some food for your breakfast 🍔
 
-* <a href="https://new-restaurant-ordering-app.netlify.app/">Live Preview</a>
+* <a href="https://restaurant-ordering-app-eight.vercel.app/">Live Preview</a>
 
 ## Welcome! 👋
 
