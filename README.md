@@ -20,10 +20,4 @@ Thanks for viewing my project, this is `my another solo project` in my journey t
 
 ## Preview Images
 
-  ![Restaurant Ordering App — Mozilla Firefox 14-09-2023 12_39_39](https://github.com/MrSandeepSharma/Restaurant-Ordering-App/assets/142038020/8fadad93-237a-4c15-8cec-5f2557995c7a)
-
-  ![Restaurant Ordering App — Mozilla Firefox 14-09-2023 12_39_55](https://github.com/MrSandeepSharma/Restaurant-Ordering-App/assets/142038020/bbc6cc2d-3667-4c55-8a0b-d241f4810d03)
-
-  ![Restaurant Ordering App — Mozilla Firefox 14-09-2023 12_40_06](https://github.com/MrSandeepSharma/Restaurant-Ordering-App/assets/142038020/666f1b6e-3660-47aa-bef2-b0e190cde296)
-
-  ![Restaurant Ordering App — Mozilla Firefox 14-09-2023 12_40_24](https://github.com/MrSandeepSharma/Restaurant-Ordering-App/assets/142038020/ca2e423d-0553-477e-b94d-5e59afe0669c)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FHdgwo69Dym9vVsxbuPbl0h%2FMobile-Restaurant-Menu%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddev" allowfullscreen></iframe>
