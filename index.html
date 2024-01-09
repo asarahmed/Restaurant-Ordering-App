@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Restaurant Ordering App</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Smythe&display=swap"
+      rel="stylesheet"
+    />
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap" rel="stylesheet"> 
+    
+    <!-- CSS File -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="container header-inner">
+        <h1>Jimmy’s Diner</h1>
+        <p class="subtitle">The best burgers and pizzas in town.</p>
+      </div>
+    </header>
+    <main>
+      <section id="items-section" class="container"></section>
+      <section id="order-section" class="container order-section">
+        <h2>Your Order</h1>
+        <div id="order-details-container">
+        </div>
+        <div class="total-price">
+          <h2 class="total-price-text">Total price:</h2>
+          <p class="item-price">$<span id="total-price"></span></p>
+        </div>
+        <button id="complete-order-btn" class="btn verdana-font">Complete order</button>
+      </section>
+      <section id="success-message" class="container">
+      </section>
+    </main>
+    <div id="payment-modal" class="payment-modal verdana-font">
+     <h2>Enter card details</h2>
+     <form id="payment-form" action="#">
+        <input type="text" name="user-name" id="user-name" placeholder="Enter your name" aria-label="Enter your name" required>
+        <input type="number" name="card-number" id="card-number" placeholder="Enter card number" aria-label="Enter card number" required>
+        <input type="number" name="cvv-number" id="cvv-number" placeholder="Enter CVV" aria-label="Enter cvv" required>
+        <button class="pay-btn btn verdana-font">Pay</button>
+     </form>
+    </div>
+
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
